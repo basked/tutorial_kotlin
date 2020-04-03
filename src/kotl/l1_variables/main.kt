@@ -1,4 +1,4 @@
-package l1_variables
+package kotl.l1_variables
 
 fun main() {
     learnVariables()
